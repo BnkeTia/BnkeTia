@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BnkeTia
-- 👀 I’m interested in C, Bash scripting and python. I look forward to increasing my tech stack over the next few months
+- 👀 I’m interested in C, Bash scripting, Javascript and python. I look forward to increasing my tech stack over the next few months
 - 🌱 I’m currently learning Fullstack Software Engineering from alx
 - 💞️ I’m looking to collaborate on feasible ways to ace the 70hours SE program as well as collaborate on projects that helps in building understanding in core programming concepts....
 - 📫 How to reach me ...
